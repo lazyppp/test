@@ -1,2 +1,3 @@
 #!/usr/bin/ruby
-p "TestTest"
+p "TestTest
+p "hi!"
